@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="none" group-title="Sports",Sony Espn
+http://10.20.30.30:8888/LiveEvent-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="undefined" group-title="Sports", Star Sports 1
+http://10.20.30.30:8888/LiveEvent-2/tracks-v1a1/mono.m3u8
+
+http://10.20.30.30:8888/LiveEvent-3/tracks-
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangla News Channels",Somoy tv
+http://10.20.30.30:8888/LiveEvent-6/tracks-v1a1/mono.m3u8
